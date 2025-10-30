@@ -1,0 +1,8 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+21:17:41	5254/5254	---M-Z	404	error ('Not%20Found')	text/html	etag:W/%2264d39a40-24a3%22	https://jcw87.github.io/robots.txt		(from )
+21:17:41	5197/5197	---M-Z	200	added ('OK')	text/html	etag:W/%2264964538-144d%22	https://jcw87.github.io/c2-smb1/	D:/sd/web/index.html	(from )
+21:17:41	556/556	---M-Z	200	added ('OK')	application/json	etag:W/%2264964538-22c%22	https://jcw87.github.io/c2-smb1/appmanifest.json	D:/sd/web/images/appmanifest.json	(from https://jcw87.github.io/c2-smb1/)
+21:17:41	98347/98347	---M--	200	added ('OK')	image/png	etag:%2264964538-1802b%22	https://jcw87.github.io/c2-smb1/icon-256.png	D:/sd/web/images/icon-256.png	(from https://jcw87.github.io/c2-smb1/)
+21:17:41	84248/84248	---M-Z	200	added ('OK')	application/javascript	etag:W/%2264964538-14918%22	https://jcw87.github.io/c2-smb1/jquery-2.1.1.min.js	D:/sd/web/images/jquery-2.1.1.min.js	(from https://jcw87.github.io/c2-smb1/)
+21:17:42	246973/246973	---M-Z	200	added ('OK')	application/javascript	etag:W/%2264964538-3c4bd%22	https://jcw87.github.io/c2-smb1/c2runtime.js	D:/sd/web/images/c2runtime.js	(from https://jcw87.github.io/c2-smb1/)
+21:17:42	13848/13848	---M-Z	200	added ('OK')	application/javascript	etag:W/%2264964538-3618%22	https://jcw87.github.io/c2-smb1/sw.js	D:/sd/web/images/sw.js	(from https://jcw87.github.io/c2-smb1/)
